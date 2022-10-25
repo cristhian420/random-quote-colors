@@ -1,6 +1,6 @@
 {
     "name": "random-quote-colors",
-    "version": "2.0.0",
+    "version": "1.1.0",
     "description": "Random Quote with colors, a fork by random-str-msg (npm package)",
     "main": "index.js",
     "scripts": {
@@ -8,15 +8,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/gndx/random-str-msg.git"
+        "url": "git+https://github.com/cristhian420/random-quote-colors "
     },
     "keywords": [],
     "author": "Cristhian Salas <cristhian.sm@hotmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/cristhian420/random-quote-colors"
+        "url": "https://github.com/cristhian420/random-quote-colors/issues"
     },
-    "homepage": "https://github.com/cristhian420/random-quote-colors",
+    "homepage": "https://github.com/cristhian420/random-quote-colors#readme",
     "bin": {
         "random-quote-colors": "./bin/global.js"
     },
