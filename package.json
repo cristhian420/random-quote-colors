@@ -4,25 +4,24 @@
     "description": "Random Quote with colors, a fork by random-str-msg (npm package)",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gndx/random-str-msg.git"
+        "type": "git",
+        "url": "git+https://github.com/gndx/random-str-msg.git"
     },
     "keywords": [],
     "author": "Cristhian Salas <cristhian.sm@hotmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/cristhian420/random-quote-colors"
-  
+        "url": "https://github.com/cristhian420/random-quote-colors"
     },
     "homepage": "https://github.com/cristhian420/random-quote-colors",
     "bin": {
-      "random-quote-colors": "./bin/global.js"
+        "random-quote-colors": "./bin/global.js"
     },
     "preferGlobal": true,
     "dependencies": {
-      "g": "^2.0.1"
+        "g": "^2.0.1"
     }
-  }
+}
